@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Surja15
-- 👀 I’m interested in PC Building, Project Presentation and Coordination, Content Creation, Game Beta Testing, Emulation Softwares
-- 🌱 I’m currently learning C,C++
-- 💞️ I’m looking to collaborate on Content Creation, Presentation of Projects, Selling ideas on stage, etc
+- 👀 I’m interested in Android App Development, PC Building, Project Presentation and Coordination, Article Writing, Game Beta Testing, Emulation Softwares
+- 🌱 I’m currently learning C,C++, Python, Java, Dart, Flutter
+- 💞️ I’m looking to collaborate on App Development, Flutter Projects, Website Design, etc
 - 📫 How to reach me : Send me a message
 
 <!---
