@@ -40,7 +40,7 @@ Description: A to-do list app to keep track of tasks, created using Dart and Flu
 
 Description: A minimalist shopping app built with Dart and Flutter.
 
-- Pending Upload
+- [Link to [Github Repository](https://github.com/Surja15/Minimalist-Shopping-App)]
 
 ## Let's Connect
 
