@@ -6,6 +6,7 @@ I'm a passionate Android app developer using Dart and Flutter, with a knack for 
 
 ## Skills
 
+- **Languages:** C, C++, Java, Python, Dart
 - **Android App Development:** Dart, Flutter
 - **Project Stage Presentation and Coordination**
 - **PC Building Enthusiast**
