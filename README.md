@@ -10,37 +10,45 @@ I'm a passionate Android app developer using Dart and Flutter, with a knack for 
 - **Project Stage Presentation and Coordination**
 - **PC Building Enthusiast**
 - **Software Development**
+- **Game Development Enthusiast**
 - **HTML/CSS Beginner**
 - **Other Skills:**
   - UI/UX Design
   - Firebase Integration
   - Project Management
 
+
 ## Projects
+
+### Tetris Game
+
+Description: A simple Tetris game implemented in Flutter, made from scratch. The game features intuitive controls with left, right, and rotate buttons, along with a score tab to keep track of your progress.
+
+- [Link to GitHub Repository](https://github.com/Surja15/tetris)
 
 ### Compass App
 
 Description: A simple compass app built using Dart and Flutter.
 
-- [Link to[ GitHub Repository](https://github.com/Surja15/compass_app)]
+- [Link to GitHub Repository](https://github.com/Surja15/compass_app)
 
 ### Notepad App
 
 Description: A basic notepad app for taking notes, built with Dart and Flutter.
 
-- [Link to [GitHub Repository](https://github.com/Surja15/Flutter-Hive-Notes-App-Minimalist-)]
+- [Link to GitHub Repository](https://github.com/Surja15/Flutter-Hive-Notes-App-Minimalist-)
 
 ### To-Do App
 
 Description: A to-do list app to keep track of tasks, created using Dart and Flutter.
 
-- [Link to [GitHub Repository](https://github.com/Surja15/Task-Manager)]
+- [Link to GitHub Repository](https://github.com/Surja15/Task-Manager)
 
 ### Minimalist Shopping App
 
 Description: A minimalist shopping app built with Dart and Flutter.
 
-- [Link to [Github Repository](https://github.com/Surja15/Minimalist-Shopping-App)]
+- [Link to Github Repository](https://github.com/Surja15/Minimalist-Shopping-App)
 
 ## Let's Connect
 
@@ -48,7 +56,6 @@ If you're interested in collaborating or just want to connect, feel free to reac
 
 - Twitter / X : @hocus_crobat
 - Email: pokedonsss@gmail.com
-
 
 <!---
 Surja15/Surja15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
