@@ -22,7 +22,7 @@ I'm a passionate Android app developer using Dart and Flutter, with a knack for 
 
 ### Tetris Game
 
-Description: A simple Tetris game implemented in Flutter, made from scratch. The game features intuitive controls with left, right, and rotate buttons, along with a score tab to keep track of your progress.
+Description: A fully-fledged Tetris game implemented in Flutter, made from scratch. The game features intuitive controls with left, right, and rotate buttons, along with a score tab to keep track of your progress.
 
 - [Link to GitHub Repository](https://github.com/Surja15/tetris)
 
