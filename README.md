@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Android app developer using Dart and Flutter, with a knack for project stage presentation and coordination. I'm also a PC building enthusiast and have a keen interest in software development. I've worked on HTML/CSS for a website project and am constantly learning and open to collaborating on exciting projects, internships, and more!
+I'm a passionate Android app developer using Dart and Flutter, with a knack for project stage presentation and coordination. I've also successfully published an app on the Amazon Appstore. I'm a PC building enthusiast and have a keen interest in software development. I've worked on HTML/CSS for a website project and am constantly learning and open to collaborating on exciting projects, internships, and more!
 
 ## Skills
 
@@ -15,7 +15,7 @@ I'm a passionate Android app developer using Dart and Flutter, with a knack for 
 - **HTML/CSS Beginner**
 - **Other Skills:**
   - UI/UX Design
-  - Firebase Integration
+  - Hive Integration
   - Project Management
 
 
@@ -57,6 +57,7 @@ If you're interested in collaborating or just want to connect, feel free to reac
 
 - Twitter / X : @hocus_crobat
 - Email: pokedonsss@gmail.com
+- [Amazon Appstore Account](https://www.amazon.in/s?i=mobile-apps&rh=p_4%3ASurja+Sekhar+Sengupta&search-type=ss)
 
 <!---
 Surja15/Surja15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
