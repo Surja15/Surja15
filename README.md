@@ -8,7 +8,6 @@ I'm a passionate Android app developer using Dart and Flutter, with a knack for 
 
 - **Languages:** C, C++, Java, Python, Dart
 - **Android App Development:** Dart, Flutter
-- **Project Stage Presentation and Coordination**
 - **PC Building Enthusiast**
 - **Software Development**
 - **Game Development Enthusiast**
@@ -17,6 +16,9 @@ I'm a passionate Android app developer using Dart and Flutter, with a knack for 
   - UI/UX Design
   - Hive Integration
   - Project Management
+  - Canva Design
+  - Article Writing
+  - App Publishing
 
 
 ## Projects
