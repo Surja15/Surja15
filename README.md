@@ -53,6 +53,12 @@ Description: A minimalist shopping app built with Dart and Flutter.
 
 - [Link to Github Repository](https://github.com/Surja15/Minimalist-Shopping-App)
 
+### Neumorphism - Neon Music App
+
+Description: A beautiful music app UI with design based on neumorphism and neon. With light and dark mode.
+
+- [Link to Github Repository](https://github.com/Surja15/music_app)
+
 ## Let's Connect
 
 If you're interested in collaborating or just want to connect, feel free to reach out!
