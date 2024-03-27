@@ -1,24 +1,29 @@
-# Hi there, I'm Surja15! 👋
+![ezgif-1-4538ab2ea1](https://github.com/Surja15/Surja15/assets/146713425/b77da1b4-284e-49f4-a114-6685b847a136)
+
+
+
+# Hi there, I'm Surja! 👋
 
 ## About Me
 
-I'm a passionate Android app developer using Dart and Flutter, with a knack for project stage presentation and coordination. I've also successfully published an app on the Amazon Appstore. I'm a PC building enthusiast and have a keen interest in software development. I've worked on HTML/CSS for a website project and am constantly learning and open to collaborating on exciting projects, internships, and more!
+I'm a passionate software developer.
 
 ## Skills
 
 - **Languages:** C, C++, Java, Python, Dart
 - **Android App Development:** Dart, Flutter
-- **PC Building Enthusiast**
+- **Article Writing**
 - **Software Development**
 - **Game Development Enthusiast**
-- **HTML/CSS Beginner**
+- **UI/UX Design**
 - **Other Skills:**
-  - UI/UX Design
+  - HTML/CSS Beginner
   - Hive Integration
-  - Project Management
+  - Project Presentation
   - Canva Design
-  - Article Writing
+  - PC Building Enthusiast
   - App Publishing
+  - Photography
 
 
 ## Projects
@@ -35,9 +40,9 @@ Description: A simple compass app built using Dart and Flutter.
 
 - [Link to GitHub Repository](https://github.com/Surja15/compass_app)
 
-### Notepad App
+### Minimalist Notes App - Published on Amazon App Store
 
-Description: A basic notepad app for taking notes, built with Dart and Flutter.
+Description: A no frills notepad app for taking notes, built with Dart and Flutter, using hive storage backend.
 
 - [Link to GitHub Repository](https://github.com/Surja15/Flutter-Hive-Notes-App-Minimalist-)
 
