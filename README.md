@@ -1,4 +1,5 @@
-![ezgif-1-4538ab2ea1](https://github.com/Surja15/Surja15/assets/146713425/b77da1b4-284e-49f4-a114-6685b847a136)
+![ezgif-6-4a8b0fc384](https://github.com/Surja15/Surja15/assets/146713425/26a064ce-bd3d-4ec4-b8ae-2ec74b8649b6)
+
 
 
 
@@ -76,3 +77,4 @@ If you're interested in collaborating or just want to connect, feel free to reac
 Surja15/Surja15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![ezgif-1-4538ab2ea1](https://github.com/Surja15/Surja15/assets/146713425/b77da1b4-284e-49f4-a114-6685b847a136)
