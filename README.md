@@ -13,6 +13,7 @@ I'm a passionate software developer.
 
 - **Languages:** C, C++, Java, Python, Dart
 - **Android App Development:** Dart, Flutter
+- **Web Development:** Flutter Web
 - **Article Writing**
 - **Software Development**
 - **Game Development Enthusiast**
@@ -64,6 +65,7 @@ Description: A minimalist shopping app built with Dart and Flutter.
 Description: A beautiful working music app with UI with design based on neumorphism and neon. With light and dark mode.
 
 - [Link to Github Repository](https://github.com/Surja15/music_app)
+- Web App Hosted on - https://surja15.github.io/atlasv3/
 
 ## Let's Connect
 
