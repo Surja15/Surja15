@@ -18,6 +18,7 @@ I'm a passionate software developer.
 - **Software Development**
 - **Game Development Enthusiast**
 - **UI/UX Design**
+- **Firebase**
 - **Other Skills:**
   - HTML/CSS Beginner
   - Hive Integration
