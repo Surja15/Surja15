@@ -13,14 +13,13 @@ I'm a passionate software developer.
 
 - **Languages:** C, C++, Java, Python, Dart
 - **Android App Development:** Dart, Flutter
-- **Web Development:** Flutter Web
+- **Web Development:** Flutter Web, HTML, CSS
 - **Article Writing**
 - **Software Development**
 - **Game Development Enthusiast**
 - **UI/UX Design**
 - **Firebase**
 - **Other Skills:**
-  - HTML/CSS Beginner
   - Hive Integration
   - Project Presentation
   - Canva Design
