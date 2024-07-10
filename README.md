@@ -15,6 +15,7 @@ I'm a passionate software developer.
 - **Android App Development:** Dart, Flutter
 - **Web Development:** Flutter Web, HTML, CSS
 - **Article Writing**
+- **Linux Systems**
 - **Software Development**
 - **Game Development Enthusiast**
 - **UI/UX Design**
