@@ -18,7 +18,7 @@ I'm a passionate software developer.
 - **Linux Systems**
 - **Software Development**
 - **Game Development Enthusiast**
-- **UI/UX Design - FIGMA**
+- **UI/UX Design - Figma**
 - **Firebase**
 - **Other Skills:**
   - Hive Integration
