@@ -9,24 +9,57 @@
 
 I'm a passionate software developer.
 
-## Skills
+## 🛠 Skills  
 
-- **Languages:** C, C++, Java, Python, Dart
-- **Android App Development:** Dart, Flutter
-- **Web Development:** Flutter Web, HTML, CSS
-- **Article Writing**
-- **Linux Systems**
-- **Software Development**
-- **Game Development Enthusiast**
-- **UI/UX Design - Figma**
-- **Firebase**
-- **Other Skills:**
-  - Hive Integration
-  - Project Presentation
-  - Canva Design
-  - PC Building Enthusiast
-  - App Publishing
-  - Photography
+### Programming Languages  
+C, C++, Python, Java  
+
+---
+
+### Cybersecurity Focus  
+- Malware Analysis (Static & Basic Dynamic)  
+- Threat Detection & Log Analysis  
+- Quarantine Mechanism Design  
+- Lightweight Encryption (XOR-based implementations for embedded concepts)  
+- Secure Coding Practices  
+
+---
+
+### Systems & Networking  
+- Linux Systems  
+- Basic Networking Concepts  
+- OS Fundamentals (Processes, Memory, File Systems)  
+
+---
+
+### Security Tools & Concepts  
+- Basic use of VirusTotal  
+- PE File Structure Understanding  
+- Hashing & Integrity Checking  
+- Command-line Based Analysis Workflows  
+
+---
+
+### Development Skills  
+- Python Automation Scripts  
+- Tool Building (Security-focused utilities)  
+- CLI Application Development  
+
+---
+
+### Web & App Development  
+- HTML  
+- CSS  
+- Flutter (Basic)  
+
+---
+
+### Other Skills  
+- Technical Documentation  
+- Project Presentation  
+- Canva Design  
+- PC Hardware Knowledge  
+- App Deployment Basics  
 
 
 ## Projects
