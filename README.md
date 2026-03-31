@@ -20,7 +20,7 @@ C, C++, Python, Java
 - Malware Analysis (Static & Basic Dynamic)  
 - Threat Detection & Log Analysis  
 - Quarantine Mechanism Design  
-- Lightweight Encryption (XOR-based implementations for embedded concepts)  
+- Lightweight Encryption 
 - Secure Coding Practices  
 
 ---
@@ -33,7 +33,7 @@ C, C++, Python, Java
 ---
 
 ### Security Tools & Concepts  
-- Basic use of VirusTotal  
+- YARA  
 - PE File Structure Understanding  
 - Hashing & Integrity Checking  
 - Command-line Based Analysis Workflows  
@@ -41,7 +41,7 @@ C, C++, Python, Java
 ---
 
 ### Development Skills  
-- Python Automation Scripts  
+- Python Scripts  
 - Tool Building (Security-focused utilities)  
 - CLI Application Development  
 
