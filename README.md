@@ -10,6 +10,54 @@
 I'm a passionate software developer and cybersecurity enthusiast focused on malware analysis, Linux systems, threat detection, and security tooling.  
 I enjoy building security-focused applications from scratch and exploring how operating systems, networking, and malware detection systems work internally.
 
+# 🚀 Featured Projects
+
+## Black Swan Antivirus
+A fully custom Linux antivirus written in C with:
+- YARA-based malware detection
+- Real-time filesystem monitoring
+- Multi-threaded scanning
+- Encrypted quarantine isolation
+- Secure restore system
+
+🔗 GitHub:  
+[BlackSwanAntivirus](https://github.com/Surja15/BlackSwanAntivirus)
+
+---
+
+##  base64r
+An educational ransomware simulation project created for cybersecurity research and learning purposes. Demonstrates encryption workflows, file handling, and controlled malware behavior in isolated environments.
+
+🔗 GitHub:  
+[base64r](https://github.com/Surja15/base64r)
+
+---
+
+## Telegram Server Based Keylogger
+A Python-based server-integrated keylogger developed strictly for ethical cybersecurity research and detection analysis.
+
+Features:
+- Remote logging pipeline
+- Telegram integration
+- Keystroke monitoring architecture
+- Security research demonstration
+
+🔗 GitHub:  
+[Telegram-Server-Based-Keylogger](https://github.com/Surja15/Telegram-Server-Based-Keylogger)
+
+---
+
+##  Network Port Scanner
+A multi-threaded TCP port scanner with a graphical interface capable of:
+- Open port detection
+- Service identification
+- Concurrent scanning
+- Automatic result saving
+
+🔗 GitHub:  
+[Network-Port-Scanner](https://github.com/Surja15/Network-Port-Scanner)
+
+---
 ---
 
 # 🛠 Skills
@@ -64,55 +112,6 @@ C • C++ • Python • Java
 - Canva Design
 - PC Hardware Knowledge
 - App Deployment
-
----
-
-# 🚀 Featured Projects
-
-## 🦢 Black Swan Antivirus
-A fully custom Linux antivirus written in C with:
-- YARA-based malware detection
-- Real-time filesystem monitoring
-- Multi-threaded scanning
-- Encrypted quarantine isolation
-- Secure restore system
-
-🔗 GitHub:  
-[BlackSwanAntivirus](https://github.com/Surja15/BlackSwanAntivirus)
-
----
-
-## 🔐 base64r
-An educational ransomware simulation project created for cybersecurity research and learning purposes. Demonstrates encryption workflows, file handling, and controlled malware behavior in isolated environments.
-
-🔗 GitHub:  
-[base64r](https://github.com/Surja15/base64r)
-
----
-
-## 📡 Telegram Server Based Keylogger
-A Python-based server-integrated keylogger developed strictly for ethical cybersecurity research and detection analysis.
-
-Features:
-- Remote logging pipeline
-- Telegram integration
-- Keystroke monitoring architecture
-- Security research demonstration
-
-🔗 GitHub:  
-[Telegram-Server-Based-Keylogger](https://github.com/Surja15/Telegram-Server-Based-Keylogger)
-
----
-
-## 🌐 Network Port Scanner
-A multi-threaded TCP port scanner with a graphical interface capable of:
-- Open port detection
-- Service identification
-- Concurrent scanning
-- Automatic result saving
-
-🔗 GitHub:  
-[Network-Port-Scanner](https://github.com/Surja15/Network-Port-Scanner)
 
 ---
 
