@@ -7,110 +7,135 @@
 
 ## About Me
 
-I'm a passionate software developer.
-
-## 🛠 Skills  
-
-### Programming Languages  
-C, C++, Python, Java  
+I'm a passionate software developer and cybersecurity enthusiast focused on malware analysis, Linux systems, threat detection, and security tooling.  
+I enjoy building security-focused applications from scratch and exploring how operating systems, networking, and malware detection systems work internally.
 
 ---
 
-### Cybersecurity Focus  
-- Malware Analysis (Static & Basic Dynamic)  
-- Threat Detection & Log Analysis  
-- Quarantine Mechanism Design  
-- Lightweight Encryption 
-- Secure Coding Practices  
+# 🛠 Skills
+
+## Programming Languages
+C • C++ • Python • Java
 
 ---
 
-### Systems & Networking  
-- Linux Systems  
-- Basic Networking Concepts  
-- OS Fundamentals (Processes, Memory, File Systems)  
+## Cybersecurity Focus
+- Malware Analysis (Static & Basic Dynamic)
+- Threat Detection & Log Analysis
+- Real-Time Monitoring Systems
+- Quarantine Mechanism Design
+- Lightweight Encryption
+- Secure Coding Practices
+- Signature-Based Detection
 
 ---
 
-### Security Tools & Concepts  
-- YARA  
-- PE File Structure Understanding  
-- Hashing & Integrity Checking  
-- Command-line Based Analysis Workflows  
+## Systems & Networking
+- Linux Systems
+- OS Fundamentals (Processes, Memory, File Systems)
+- Basic Networking Concepts
+- Multi-threaded Programming
+- Filesystem Monitoring
 
 ---
 
-### Development Skills  
-- Python Scripts  
-- Tool Building (Security-focused utilities)  
-- CLI Application Development  
+## Security Tools & Concepts
+- YARA
+- PE File Structure Understanding
+- Hashing & Integrity Checking
+- Command-line Based Analysis Workflows
+- inotify
+- Malware Signature Detection
 
 ---
 
-### Web & App Development  
-- HTML  
-- CSS  
-- Flutter (Basic)  
+## Development Skills
+- Security Tool Development
+- CLI Application Development
+- Python Automation Scripts
+- Modular System Design
+- Technical Documentation
 
 ---
 
-### Other Skills  
-- Technical Documentation  
-- Project Presentation  
-- Canva Design  
-- PC Hardware Knowledge  
-- App Deployment Basics  
+## Other Skills
+- Technical Documentation
+- Project Presentation
+- Canva Design
+- PC Hardware Knowledge
+- App Deployment
 
+---
 
-## Projects
+# 🚀 Featured Projects
 
-### Tetris Game
+## 🦢 Black Swan Antivirus
+A fully custom Linux antivirus written in C with:
+- YARA-based malware detection
+- Real-time filesystem monitoring
+- Multi-threaded scanning
+- Encrypted quarantine isolation
+- Secure restore system
 
-Description: A fully-fledged Tetris game implemented in Flutter, made from scratch. The game features intuitive controls with left, right, and rotate buttons, along with a score tab to keep track of your progress.
+🔗 GitHub:  
+[BlackSwanAntivirus](https://github.com/Surja15/BlackSwanAntivirus)
 
-- [Link to GitHub Repository](https://github.com/Surja15/tetris)
+---
 
-### Compass App
+## 🔐 base64r
+An educational ransomware simulation project created for cybersecurity research and learning purposes. Demonstrates encryption workflows, file handling, and controlled malware behavior in isolated environments.
 
-Description: A simple compass app built using Dart and Flutter.
+🔗 GitHub:  
+[base64r](https://github.com/Surja15/base64r)
 
-- [Link to GitHub Repository](https://github.com/Surja15/compass_app)
+---
 
-### Minimalist Notes App - Published on Amazon App Store
+## 📡 Telegram Server Based Keylogger
+A Python-based server-integrated keylogger developed strictly for ethical cybersecurity research and detection analysis.
 
-Description: A no frills notepad app for taking notes, built with Dart and Flutter, using hive storage backend.
+Features:
+- Remote logging pipeline
+- Telegram integration
+- Keystroke monitoring architecture
+- Security research demonstration
 
-- [Link to GitHub Repository](https://github.com/Surja15/Flutter-Hive-Notes-App-Minimalist-)
+🔗 GitHub:  
+[Telegram-Server-Based-Keylogger](https://github.com/Surja15/Telegram-Server-Based-Keylogger)
 
-### To-Do App
+---
 
-Description: A to-do list app to keep track of tasks, created using Dart and Flutter.
+## 🌐 Network Port Scanner
+A multi-threaded TCP port scanner with a graphical interface capable of:
+- Open port detection
+- Service identification
+- Concurrent scanning
+- Automatic result saving
 
-- [Link to GitHub Repository](https://github.com/Surja15/Task-Manager)
+🔗 GitHub:  
+[Network-Port-Scanner](https://github.com/Surja15/Network-Port-Scanner)
 
-### Minimalist Shopping App
+---
 
-Description: A minimalist shopping app built with Dart and Flutter.
+# 📚 Other Projects
 
-- [Link to Github Repository](https://github.com/Surja15/Minimalist-Shopping-App)
+- Flutter Notes Application
+- Shopping App
+- Tetris Game
+- Compass App
+- Music App UI
+- Black Swan Web Security Utilities
 
-### Neumorphism - Neon Music App
+---
 
-Description: A beautiful working music app with UI with design based on neumorphism and neon. With light and dark mode.
+# 📫 Let's Connect
 
-- [Link to Github Repository](https://github.com/Surja15/music_app)
-- Web App Hosted on - https://surja15.github.io/atlasv3/
-
-## Let's Connect
-
-If you're interested in collaborating or just want to connect, feel free to reach out!
+If you're interested in cybersecurity, malware research, Linux systems, or security tool development, feel free to connect or collaborate.
 
 - Twitter / X : @hocus_crobat
 - Email: pokedonsss@gmail.com
 - [Amazon Appstore Account](https://www.amazon.in/s?i=mobile-apps&rh=p_4%3ASurja+Sekhar+Sengupta&search-type=ss)
 
 <!---
-Surja15/Surja15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+#S15
 --->
 ![ezgif-1-4538ab2ea1](https://github.com/Surja15/Surja15/assets/146713425/b77da1b4-284e-49f4-a114-6685b847a136)
