@@ -21,7 +21,7 @@ A fully custom Linux antivirus written in C with:
 - Secure restore system
 
 🔗 GitHub:  
-[BlackSwanAntivirus](https://github.com/Surja15/BlackSwanAntivirus)
+[Antivirus](https://github.com/Surja15/antivirus)
 
 ---
 
